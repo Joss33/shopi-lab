@@ -1,9 +1,12 @@
 import styles from '../styles/Home.module.scss'
 
-export default function Home() {
+export default function About() {
   return (
     <div className ={styles.cardContainer}>
+
+
     <div className={styles.card}>
+    <h2>Este es mi about</h2>
       <div className ={styles.title}>
       Card 1
       </div>
