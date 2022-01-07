@@ -1,0 +1,79 @@
+/* Variables */
+:root {
+    --bg-shade: #eeeffb;
+    --grey-text: rgba(21, 24, 117, 0.1);
+    --primary: #fb2e86;
+    --white: #ffffff;
+    --text: #151875;
+    --red: #fb2448;
+    --sub-text-color: #8a8fb9;
+    --bg: #ebebeb;
+    --black: #111111;
+    --000000 : #000000;
+    --e7e7ef: #e7e7ef;
+    --1d3178: #1d3178;
+    --15245e: #15245e;
+    --e1e1e4: #e1e1e4;
+    --e8e6f1: #e8e6f1;
+    --f0eff2: #f0eff2;
+    --f4f4fc: #f4f4fc;
+    --19d16f: #19d16f;
+    --8a91ab: #8a91ab;
+    --ffc416: #ffc416;
+    --0d134e: #0d134e;
+    --b2b2b2: #b2b2b2;
+    --7b61ff: #7b61ff;
+    --5465ff: #5465ff;
+    --b654ef: #b654ef;
+    --4e5aff: #4e5aff;
+    --5d8dff: #5d8dff;
+}
+
+
+/* Text */
+.black-color {
+    color: var(--black);
+}
+
+.b000000-color {
+    color: var(--000000);
+}
+
+.e7e7ef-color {
+    color: var(--e7e7ef);
+}
+
+.sub-text-color {
+    color: var(--sub-text-color);
+}
+
+.text-color {
+    color: var(--text);
+}
+
+.white-color {
+    color: var(--white);
+}
+
+
+/* Background */
+.bg-grey {
+    background-color: var(--grey);
+}
+
+.bg-primary {
+    background-color: var(--primary);
+}
+
+.bg-red {
+    background-color: var(--red);
+}
+
+.bg-shade {
+    background-color: var(--bg-shade);
+}
+
+
+
+
+
